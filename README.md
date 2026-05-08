@@ -15,3 +15,8 @@ Python, NumPy, pandas, matplotlib
 
 ## Key Concepts
 Derivative pricing, stochastic simulation, hedging error analysis, portfolio insurance, and tail-risk modeling.
+
+## Key Findings
+- Hedging error decreases as rebalancing frequency increases
+- Higher CPPI multipliers increase downside tail risk
+- Covered call strategies reduce volatility at the cost of capped upside
